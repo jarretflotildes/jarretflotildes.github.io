@@ -55,6 +55,8 @@ body{
     background-color: #cbffe1; 
     margin-bottom: 10px;
     padding: 5px; 
+    top:0;
+    
 }
 
 #sidebar a:hover {
